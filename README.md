@@ -9,3 +9,4 @@
 - Webpack
 - Babel
 - TS-Loader
+- Styled Components
