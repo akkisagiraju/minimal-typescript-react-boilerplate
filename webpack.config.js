@@ -12,7 +12,7 @@ const config = {
     publicPath: '/'
   },
   resolve: {
-    extensions: ['.ts', '.tsx', '.js', '.json']
+    extensions: ['.mjs', '.ts', '.tsx', '.js', '.json']
   },
   devServer: {
     contentBase: publicPath,
